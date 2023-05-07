@@ -1,0 +1,15 @@
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\variable aleatoria discreta.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\variable aleatoria discreta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\variable aleatoria discreta.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\variable aleatoria discreta.AssemblyInfo.cs
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\variable aleatoria discreta.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\bin\Debug\net6.0\variable aleatoria discreta.exe
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\bin\Debug\net6.0\variable aleatoria discreta.deps.json
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\bin\Debug\net6.0\variable aleatoria discreta.runtimeconfig.json
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\bin\Debug\net6.0\variable aleatoria discreta.dll
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\bin\Debug\net6.0\ref\variable aleatoria discreta.dll
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\bin\Debug\net6.0\variable aleatoria discreta.pdb
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\variable aleatoria discreta.dll
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\ref\variable aleatoria discreta.dll
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\variable aleatoria discreta.pdb
+C:\Users\aleja\Desktop\3ero\Probabilidades y estadística\implementaciones\variable aleatoria discreta\obj\Debug\net6.0\variable aleatoria discreta.genruntimeconfig.cache
